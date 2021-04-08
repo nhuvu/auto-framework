@@ -2,25 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b8dc1fd-9951-4e72-a5f2-d1fd8adeb05e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20210307.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/excersiseWeek1/CompareTwoCSVFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/excersiseWeek1/ConvertIntegerToStringFormat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/excersiseWeek1/JSONContainsJSON.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/JavaDeveloper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/MethodOverriding.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/polymorphism/Programmer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/file1.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/file2.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/sample.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/exerciseWeek1/ConvertIntegerToStringFormatTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/DA_GIAC.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/DIEM.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/OOP_DEMO_ENCAPSULATION.csproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/PHAN_SO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/Program.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/TAM_GIAC.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_ENCAPSULATION/XL_PHANSO.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/CONGTY/CONG_TY.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/CONGTY/NHAN_VIEN.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/CONGTY/NHAN_VIEN_SX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/CONGTY/NHAN_VIEN_VP.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/MATPHANG/DIEM.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/MATPHANG/HINH.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/MATPHANG/HINH_CHU_NHAT.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/MATPHANG/HINH_TRON.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../bs-khtn/OOP/OOP_DEMO/OOP_DEMO_POLYMORPHISM/MATPHANG/MAT_PHANG.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -49,11 +47,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/excersiseWeek1/JSONContainsJSON.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+            <state relative-caret-position="360">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,7 +59,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/sample.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="375">
@@ -191,13 +189,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="excersiseWeek1" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -324,7 +315,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="57" y="25" width="2503" height="1415" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15522145" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -335,12 +325,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32953683" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.55656797" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.55656797" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32953683" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32953683" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32953683" />
@@ -500,20 +490,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/excersiseWeek1/JSONContainsJSON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="44" lean-forward="true" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/sample.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/excersiseWeek1/JSONContainsJSON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
