@@ -6,12 +6,10 @@ import java.util.HashMap;
 
 public class CompareTwoCSVFiles {
 
-    public void compareFiles() throws IOException {
-        InputStream inputStream1 = getClass().getResourceAsStream("/file1.csv");
-        InputStream inputStream2 = getClass().getResourceAsStream("/file2.csv");
+    public boolean compareFiles(String csv1, String csv2) throws IOException {
 
-        BufferedReader file1 = new BufferedReader(new InputStreamReader(inputStream1));
-        BufferedReader file2 = new BufferedReader(new InputStreamReader(inputStream2));
+        BufferedReader file1 = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(csv1)));
+        BufferedReader file2 = new BufferedReader(new InputStreamReader(getClass().getResourceAsStream(csv2)));
 
         HashMap<String,String> list1 = new HashMap<String,String>();
         HashMap<String,String> list2 = new HashMap<String,String>();
@@ -45,12 +43,8 @@ public class CompareTwoCSVFiles {
 
         file2.close();
 
-        System.out.println(list1.equals(list2));
+       return (list1.equals(list2));
     }
 
-    public static void main(String[] args) throws IOException {
-        CompareTwoCSVFiles compare = new CompareTwoCSVFiles();
-        compare.compareFiles();
-    }
 }
 

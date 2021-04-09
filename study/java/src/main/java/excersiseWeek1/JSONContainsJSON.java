@@ -7,8 +7,7 @@ import java.util.Iterator;
 
 public class JSONContainsJSON {
 
-    public boolean checkJSON() {
-        String jsonFile = "/sample.json";
+    public boolean checkJSON(String jsonFile) {
         InputStream is = getClass().getResourceAsStream(jsonFile);
         if (is == null) {
             throw new NullPointerException("Cannot find resource file " + jsonFile);
@@ -26,8 +25,4 @@ public class JSONContainsJSON {
         return false;
     }
 
-    public static void main(String[] args) {
-        JSONContainsJSON jsonChecker = new JSONContainsJSON();
-        System.out.println(jsonChecker.checkJSON());
-    }
 }

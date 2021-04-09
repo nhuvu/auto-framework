@@ -1,0 +1,6 @@
+{
+  "name":"John",
+  "lastName": "Jackson",
+  "age":30,
+  "cars": ["Ford", "BMW", "Mustang"]
+}
